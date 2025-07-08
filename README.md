@@ -1,12 +1,36 @@
-Employee attrition poses a significant challenge for organizations, leading to increased recruitment costs, loss of institutional knowledge, and disruptions in team performance. High turnover can indicate deeper organizational issues such as dissatisfaction, lack of engagement, or misalignment between employee expectations and company culture.
+Key Insights:
 
-This HR analytics dashboard is designed to address the critical question:
-What are the key factors contributing to employee attrition within the company?
+Attrition Rate: 17% (223 of 1,312 employees) — higher than average.
 
-The dashboard utilizes employee data — including gender, job roles, satisfaction levels, compensation, work-life balance, and performance indicators — to identify patterns and trends associated with attrition. The objective is to provide HR leaders and decision-makers with actionable insights by:
+Most Affected:
 
-Analyzing how factors such as age, department, job role, salary, and years at the company influence attrition.
+Age: 18–35 years old (~70% of leavers).
 
-Highlighting departments or roles with the highest attrition rates.
+Roles: Laboratory Technicians, Sales Executives, Research Scientists.
 
-Correlating employee satisfaction metrics (e.g., job satisfaction, environment satisfaction) with attrition behavior.
+Departments: R&D and Sales.
+
+Education: Mostly Life Sciences and Medical fields.
+
+Salary: Majority earning under $5K.
+
+Gender: Higher attrition among males.
+
+📌 Main Drivers:
+
+Low pay for critical roles.
+
+Younger employees leaving early.
+
+High attrition in key technical and sales positions.
+
+🎯 Quick Recommendations:
+
+Review and adjust pay for high-turnover roles.
+
+Strengthen career growth and training for early-career employees.
+
+Address workload and job satisfaction in R&D and Sales.
+
+Use exit interviews to find deeper causes.
+
